@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @joaoabo
+- 👋 Hi, I’m  João Antonio
 - 👀 I’m interested in  aprender e para poder ajudar a comunidade.
-- 🌱 I’m currently learning jquery
+- 🌱 I’m currently learning  React.js
 - 💞️ I’m looking to area de frontend
 - 📫 How to reach me  email joaoabo@gmail.com
 
